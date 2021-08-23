@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:deregnab-test-organization-terraform/squad-team-template4.git
 	branch = main
-	commit = b645dbab7d3eb13e63456059cab6d8e6d4892a18
-	parent = 44fcc6bfc3028c576d0d1834e23b9c4b95020e95
+	commit = f4df78e8d376f41a64ad603a041d468d7310fa73
+	parent = d0a62a51231ea49b3713683ed87a97e275e9b968
 	method = merge
 	cmdver = 0.4.3
