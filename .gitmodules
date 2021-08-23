@@ -1,0 +1,3 @@
+[submodule "squad-team-template"]
+	path = squad-team-template
+	url = git@github.com:deregnab-test-organization-terraform/squad-team-template.git
