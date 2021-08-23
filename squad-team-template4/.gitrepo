@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:deregnab-test-organization-terraform/squad-team-template4.git
+	branch = main
+	commit = b645dbab7d3eb13e63456059cab6d8e6d4892a18
+	parent = 44fcc6bfc3028c576d0d1834e23b9c4b95020e95
+	method = merge
+	cmdver = 0.4.3
